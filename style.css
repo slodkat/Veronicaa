@@ -1,0 +1,160 @@
+body {
+  background-image: url(images/fon3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#para1 {
+  text-align: center;
+  color: white;
+  font-size: 80px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+.top-container {
+  width: 800px;
+  height: 200px;
+  padding: 30px 0 200px 650px;
+  margin: 10px 10px 10px 10px;
+}
+
+.bottom-container {
+  width: 800px;
+  height: 70px;
+  padding: 0 650px 20px 50px;
+  margin: 10px 10px 10px 10px;
+}
+
+.bullet {
+  background-color: inherit;
+  padding-bottom: 0px;
+  padding-top: 10px;
+}
+
+.bullet {
+  background-color: inherit;
+  padding-bottom: 0px;
+  padding-top: 10px;
+}
+
+.bullet {
+  background-color: inherit;
+  padding-bottom: 0px;
+  padding-top: 10px;
+}
+
+#bullet1 {
+  font-size: 1.5rem;
+  position: left;
+  left: 220px;
+  bottom: 6px;
+  background-color: inherit;
+  border-radius: 5px;
+  border-color: inherit;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 100px;
+  padding-left: 70px;
+  border-width: 0px;
+}
+
+#bullet2 {
+  font-size: 1.5rem;
+  position: center;
+  left: 350px;
+  bottom: 7px;
+  background-color: inherit;
+  border-radius: 5px;
+  border-color: inherit;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 100px;
+  padding-left: 180px;
+  border-width: 0px;
+}
+
+#bullet3 {
+  font-size: 1.5rem;
+  position: right;
+  left: 500px;
+  bottom: 6px;
+  background-color: inherit;
+  border-radius: 5px;
+  border-color: inherit;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 100px;
+  padding-left: 220px;
+  border-width: 0px;
+}
+
+.Meribel {
+  color: #AFEEEE;
+}
+
+.Courchevel {
+  color: #AFEEEE;
+}
+
+.France {
+  color: #AFEEEE;
+}
+
+div {
+  float: center;
+  padding-left: 300px;
+}
+
+.contacts {
+  font-size: 1rem;
+  padding-top: 10px;
+  padding-left: 620px;
+}
+
+.gmail {
+  position: relative;
+  right: 220px;
+}
+
+.inst {
+  position: relative;
+  right: 220px;
+}
+
+.faceb {
+  position: relative;
+  right: 220px;
+}
+
+.pnum {
+  position: relative;
+  left: 200px;
+  bottom: 57px;
+}
+
+.container {
+  padding-top: 300px;
+  color: white;
+}
+
+details {
+  padding-left: 80px;
+  padding-top: 10px;
+}
+
+under-container {
+  position: absolute;
+  padding-top: 260px;
+  padding-left: 850px;
+}
+nav {
+  display: inline;
+}
